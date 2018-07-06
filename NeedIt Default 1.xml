@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2018-07-06 10:46:15">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<application_name>NeedIt</application_name>
+<application_scope>x_58872_needit</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Default 1</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>8bc81b36db4b1300e7ea5385ca961985</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:46:15</sys_created_on>
+<sys_id>f2d410c3dbcb1300e7ea5385ca9619cf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:46:15</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+</unload>

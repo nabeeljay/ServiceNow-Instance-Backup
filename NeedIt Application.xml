@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2018-07-06 10:45:04">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<application_name>NeedIt</application_name>
+<application_scope>x_58872_needit</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Default</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>7679716bdb621300e7ea5385ca96199e</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>21945883dbcb1300e7ea5385ca9619b3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_email_template_1e6daa73db621300e7ea5385ca961994</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sysevent_email_template"&gt;&lt;sysevent_email_template action="INSERT_OR_UPDATE"&gt;&lt;collection&gt;x_58872_needit_needit_task&lt;/collection&gt;&lt;email_layout/&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;Click here to close the NeedIt task - ${number}.&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;closeneedittask&lt;/name&gt;&lt;sms_alternate/&gt;&lt;subject&gt;Re: ${number} - Please close this NeedIt Task&lt;/subject&gt;&lt;sys_class_name&gt;sysevent_email_template&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-06-14 09:18:37&lt;/sys_created_on&gt;&lt;sys_id&gt;1e6daa73db621300e7ea5385ca961994&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;closeneedittask&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_template_1e6daa73db621300e7ea5385ca961994&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-06-14 09:18:37&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;/sysevent_email_template&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1403099609</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>21945883dbcb1300e7ea5385ca9619b4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>163fd96f1b70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table>x_58872_needit_needit_task</table>
+<target_name>closeneedittask</target_name>
+<type>Email Template</type>
+<update_domain>global</update_domain>
+<update_guid>64ddaebf84221300b95f6567f0c2e0aa</update_guid>
+<update_guid_history>64ddaebf84221300b95f6567f0c2e0aa:1403099609</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_549abfd2db721300e7ea5385ca96199c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="One Plus phone">120abf92db721300e7ea5385ca96190e</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><include_none>true</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><mandatory>true</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>sim</name><order>10</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><question_text>Do you want sim as well?</question_text><read_roles/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table/><reference/><reference_qual/><reference_qual_condition/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-22 09:19:34</sys_created_on><sys_id>549abfd2db721300e7ea5385ca96199c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Do you want sim as well?</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>item_option_new_549abfd2db721300e7ea5385ca96199c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-22 09:19:46</sys_updated_on><table/><tooltip/><type>1</type><ui_page/><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=549abfd2db721300e7ea5385ca96199c"/><fx_price action="delete_multiple" query="id=549abfd2db721300e7ea5385ca96199c"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price_if_checked</field><id>549abfd2db721300e7ea5385ca96199c</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-22 09:19:34</sys_created_on><sys_id>a0cabfd2db721300e7ea5385ca961917</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-22 09:19:34</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_price_if_checked</field><id>549abfd2db721300e7ea5385ca96199c</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-22 09:19:34</sys_created_on><sys_id>58cabfd2db721300e7ea5385ca961916</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-22 09:19:34</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>469661640</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>25945883dbcb1300e7ea5385ca9619b3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16426cadda80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table/>
+<target_name>Do you want sim as well?</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>d3ca3316c67213000d9ea60dfd5f140f</update_guid>
+<update_guid_history>d3ca3316c67213000d9ea60dfd5f140f:469661640,a4cabfd2e37213008d75861bf6123319:-1039448884</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_action_6618ec70db831300e7ea5385ca96194a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="DELETE"><disabled>ignore</disabled><field>comments_and_work_notes</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-29 12:24:34</sys_created_on><sys_id>6618ec70db831300e7ea5385ca96194a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>comments_and_work_notes</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_6618ec70db831300e7ea5385ca96194a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-29 12:24:34</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="remove all following sections when priority is 1.">eac56870db831300e7ea5385ca961984</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+<payload_hash>-1206992324</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>29945883dbcb1300e7ea5385ca9619b5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1644b825e160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table>x_58872_needit_needit</table>
+<target_name>comments_and_work_notes</target_name>
+<type>UI Policy Action</type>
+<update_domain>global</update_domain>
+<update_guid>a3a8e0f0128313001fa610709ebfb93e</update_guid>
+<update_guid_history>a3a8e0f0128313001fa610709ebfb93e:-1206992324,fe38acb062831300fb73715dd271fbaa:-123741752</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_eac56870db831300e7ea5385ca961984</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="x_58872_needit_needit"&gt;priority=1^EQ&lt;item endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="1"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;remove all following sections when priority is 1.&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-06-29 12:15:28&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;eac56870db831300e7ea5385ca961984&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;remove all following sections when priority is 1.&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_eac56870db831300e7ea5385ca961984&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-06-29 12:15:28&lt;/sys_updated_on&gt;&lt;table&gt;x_58872_needit_needit&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+<payload_hash>217652030</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>2d9410c3dbcb1300e7ea5385ca9619cd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1644b783e8e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table>x_58872_needit_needit</table>
+<target_name>remove all following sections when priority is 1.</target_name>
+<type>UI Policy</type>
+<update_domain>global</update_domain>
+<update_guid>2526a07880431300e899fb5209c9729a</update_guid>
+<update_guid_history>2526a07880431300e899fb5209c9729a:217652030</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_58872_needit_needit_task_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_58872_needit_needit_task"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;true&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_58872_needit_needit_task&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass&gt;13&lt;/sizeclass&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-04-05 19:43:12&lt;/sys_created_on&gt;&lt;sys_id&gt;ce1865efdb221300e7ea5385ca9619da&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_58872_needit_needit_task&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_58872_needit_needit_task_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-06-14 07:42:45&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-517655110</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>2d945883dbcb1300e7ea5385ca9619b4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>163fd3f2b710000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table>x_58872_needit_needit_task</table>
+<target_name>NeedIt Task</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>98e79e77b722130071f57dc88d9a4510</update_guid>
+<update_guid_history>98e79e77b722130071f57dc88d9a4510:-517655110,3a18a5ef2a2213007d36604366913fcd:0,ef08e1ef9a221300729c994686ea2cc5:406854308,cc89b3f694a21300eb81f13858372a0b:0,ed69fbb6e2a21300ab7c17c5db3bb06b:-1809013463,67a2277a76621300a7c5e4f302ee51aa:301996826</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_action_4266ec70db831300e7ea5385ca96191f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>description</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-29 12:16:36</sys_created_on><sys_id>4266ec70db831300e7ea5385ca96191f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>description</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_4266ec70db831300e7ea5385ca96191f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-29 12:17:05</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="remove all following sections when priority is 1.">eac56870db831300e7ea5385ca961984</ui_policy><visible>false</visible></sys_ui_policy_action></record_update>]]></payload>
+<payload_hash>293979611</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>65945883dbcb1300e7ea5385ca9619b5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1644b79b70a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table>x_58872_needit_needit</table>
+<target_name>description</target_name>
+<type>UI Policy Action</type>
+<update_domain>global</update_domain>
+<update_guid>4586287099831300b01fb3c8f810bb7e</update_guid>
+<update_guid_history>4586287099831300b01fb3c8f810bb7e:293979611,4666ec701883130056f7dd33d5c00020:1612965115</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_override_5b742a3fdb221300e7ea5385ca96196f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="INSERT_OR_UPDATE"><attributes/><attributes_override>false</attributes_override><base_table>task</base_table><calculation/><calculation_override>false</calculation_override><default_value/><default_value_override>false</default_value_override><dependent/><dependent_override>true</dependent_override><display_override>false</display_override><element>assigned_to</element><mandatory>false</mandatory><mandatory_override>false</mandatory_override><name>x_58872_needit_needit_task</name><read_only>false</read_only><read_only_override>false</read_only_override><reference_qual/><reference_qual_override>false</reference_qual_override><sys_class_name>sys_dictionary_override</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-14 08:37:51</sys_created_on><sys_id>5b742a3fdb221300e7ea5385ca96196f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>assigned_to</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_dictionary_override_5b742a3fdb221300e7ea5385ca96196f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-14 08:37:51</sys_updated_on></sys_dictionary_override></record_update>]]></payload>
+<payload_hash>532536611</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>69945883dbcb1300e7ea5385ca9619b4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>163fd719e4d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table>x_58872_needit_needit_task</table>
+<target_name>assigned_to</target_name>
+<type>Dictionary Entry Override</type>
+<update_domain>global</update_domain>
+<update_guid>9f742a3f2c2213008d300d2c3b451d74</update_guid>
+<update_guid_history>9f742a3f2c2213008d300d2c3b451d74:532536611,1b742a3f632213002c496fd5cc0f1b71:104930282</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_email_action_2459b16bdb621300e7ea5385ca961998</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Uncategorized" name="Uncategorized"&gt;c97d83137f4432005f58108c3ffa917a&lt;/category&gt;&lt;collection&gt;x_58872_needit_needit_task&lt;/collection&gt;&lt;condition/&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;event_name&gt;x_58872_needit.overdueNeedItTask&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;event&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;Dear ${assigned_to.first_name}&lt;/p&gt;
+&lt;p&gt;An overdue needit task is assigned to you.&lt;/p&gt;
+&lt;p&gt;Number: ${number}&lt;/p&gt;
+&lt;p&gt;Short Description: ${short_description}&lt;/p&gt;
+&lt;p&gt;${mail_script:CountOverdueNeedItTasksAssignedTo}&lt;/p&gt;
+&lt;p&gt;Please complete this task as soon as possible.&lt;/p&gt;
+&lt;p&gt;Click here to view the NeedIt task record : ${URI_REF}&lt;/p&gt;
+&lt;p&gt;${mailto:closeneedittask}&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;Overdue NeedIt Task&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields&gt;assigned_to&lt;/recipient_fields&gt;&lt;recipient_groups/&gt;&lt;recipient_users&gt;nabeel9605@gmail.com,njaved@xavient.com&lt;/recipient_users&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;Overdue NeedIt Task: ${number}&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-06-13 10:51:27&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;2459b16bdb621300e7ea5385ca961998&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Overdue NeedIt Task&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_2459b16bdb621300e7ea5385ca961998&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-06-14 09:21:28&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template/&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2102056211</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>6d945883dbcb1300e7ea5385ca9619b3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>163fd998b5d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table>x_58872_needit_needit_task</table>
+<target_name>Overdue NeedIt Task</target_name>
+<type>Notification</type>
+<update_domain>global</update_domain>
+<update_guid>de7eee7f48221300ca9b245cba3ab156</update_guid>
+<update_guid_history>de7eee7f48221300ca9b245cba3ab156:2102056211,d9128a6f2262130065210be65758209a:-1791926028,bf0ff16fe96213006e386219e2cfc783:-124158005,135b35abf26213000cc665d6a98511b2:-318123213,29d9b9efec221300fe1a58463b71f0dd:-2008890758,3a79716baf621300df24718e671dcd9f:104143631</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_action_0b19acb0db831300e7ea5385ca9619b0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>comments</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-29 12:29:21</sys_created_on><sys_id>0b19acb0db831300e7ea5385ca9619b0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>comments</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_0b19acb0db831300e7ea5385ca9619b0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-29 12:29:21</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="remove all following sections when priority is 1.">eac56870db831300e7ea5385ca961984</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+<payload_hash>119222720</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>a1945883dbcb1300e7ea5385ca9619b5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1644b84f1f70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table>x_58872_needit_needit</table>
+<target_name>comments</target_name>
+<type>UI Policy Action</type>
+<update_domain>global</update_domain>
+<update_guid>745924f013831300a51d84ba26467bf9</update_guid>
+<update_guid_history>745924f013831300a51d84ba26467bf9:119222720</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_in_email_action_a2e79e77db221300e7ea5385ca961975</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_in_email_action"&gt;&lt;sysevent_in_email_action action="INSERT_OR_UPDATE"&gt;&lt;action&gt;record_action&lt;/action&gt;&lt;active&gt;true&lt;/active&gt;&lt;assignment_operator/&gt;&lt;condition_script&gt;email.subjectto.toLowerCase().indexOf('overdue needIt task')&amp;gt;=0&lt;/condition_script&gt;&lt;description&gt;Updates the record's work notes with the inbound email's body.&lt;/description&gt;&lt;event_name&gt;email.read&lt;/event_name&gt;&lt;filter_condition/&gt;&lt;from/&gt;&lt;name&gt;Update NeedIt Task on Reply&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;reply_email/&gt;&lt;required_roles/&gt;&lt;script&gt;&lt;![CDATA[(function runAction(/*GlideRecord*/ current, /*GlideRecord*/ event, /*EmailWrapper*/ email, /*ScopedEmailLogger*/ logger, /*EmailClassifier*/ classifier) {
+
+	// Implement email action here
+	current.work_notes=email.body_text();
+	current.update();
+})(current, event, email, logger, classifier);]]&gt;&lt;/script&gt;&lt;stop_processing&gt;true&lt;/stop_processing&gt;&lt;sys_class_name&gt;sysevent_in_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-06-14 07:45:01&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;a2e79e77db221300e7ea5385ca961975&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Update NeedIt Task on Reply&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_in_email_action_a2e79e77db221300e7ea5385ca961975&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-06-14 09:22:05&lt;/sys_updated_on&gt;&lt;table&gt;x_58872_needit_needit_task&lt;/table&gt;&lt;template/&gt;&lt;type&gt;reply&lt;/type&gt;&lt;/sysevent_in_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1282685431</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>a5945883dbcb1300e7ea5385ca9619b4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>163fd9a1c850000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table>x_58872_needit_needit_task</table>
+<target_name>Update NeedIt Task on Reply</target_name>
+<type>Inbound Email Actions</type>
+<update_domain>global</update_domain>
+<update_guid>df9eeebf4c2213004011b007465b7be1</update_guid>
+<update_guid_history>df9eeebf4c2213004011b007465b7be1:-1282685431,baf852772d2213000fd85e27895146aa:-1282685431,5968d273f22213000137fff5cfca3f86:643476872</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_catalog_ea6a3fd2db721300e7ea5385ca961962</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="One Plus phone">120abf92db721300e7ea5385ca96190e</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-22 09:18:04</sys_created_on><sys_id>ea6a3fd2db721300e7ea5385ca961962</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.One Plus phone</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_catalog_ea6a3fd2db721300e7ea5385ca961962</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-22 09:18:04</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+<payload_hash>230748014</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>a9945883dbcb1300e7ea5385ca9619b3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16426c950e50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table/>
+<target_name>Service Catalog.One Plus phone</target_name>
+<type>Catalog Items Catalog</type>
+<update_domain>global</update_domain>
+<update_guid>2e6a3fd274721300399552add53be264</update_guid>
+<update_guid_history>2e6a3fd274721300399552add53be264:230748014</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_in_email_action_55aeeebfdb221300e7ea5385ca9619e3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_in_email_action"&gt;&lt;sysevent_in_email_action action="INSERT_OR_UPDATE"&gt;&lt;action&gt;record_action&lt;/action&gt;&lt;active&gt;true&lt;/active&gt;&lt;assignment_operator/&gt;&lt;condition_script&gt;email.subject.toLowerCase().indexOf("Please close this NeedIt Task")&amp;gt;=0&lt;/condition_script&gt;&lt;description/&gt;&lt;event_name&gt;email.read&lt;/event_name&gt;&lt;filter_condition/&gt;&lt;from/&gt;&lt;name&gt;Close NeedIt Task&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;reply_email/&gt;&lt;required_roles/&gt;&lt;script&gt;&lt;![CDATA[(function runAction(/*GlideRecord*/ current, /*GlideRecord*/ event, /*EmailWrapper*/ email, /*ScopedEmailLogger*/ logger, /*EmailClassifier*/ classifier) {
+
+	// Implement email action here
+
+})(current, event, email, logger, classifier);]]&gt;&lt;/script&gt;&lt;stop_processing&gt;true&lt;/stop_processing&gt;&lt;sys_class_name&gt;sysevent_in_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-06-14 09:23:23&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;55aeeebfdb221300e7ea5385ca9619e3&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Close NeedIt Task&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_in_email_action_55aeeebfdb221300e7ea5385ca9619e3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-06-14 09:24:56&lt;/sys_updated_on&gt;&lt;table&gt;x_58872_needit_needit_task&lt;/table&gt;&lt;template&gt;state=3^EQ&lt;/template&gt;&lt;type&gt;reply&lt;/type&gt;&lt;/sysevent_in_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1687087610</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>e1945883dbcb1300e7ea5385ca9619b4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>163fd9cb90e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table>x_58872_needit_needit_task</table>
+<target_name>Close NeedIt Task</target_name>
+<type>Inbound Email Actions</type>
+<update_domain>global</update_domain>
+<update_guid>c14f66b30862130032e58149a6b15276</update_guid>
+<update_guid_history>c14f66b30862130032e58149a6b15276:-1687087610,e21feebf672213008f55b48750b1e7e7:-1927638987,96eeee7315621300c59fa88c53eac9d3:-1979395775</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_120abf92db721300e7ea5385ca96190e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item"><sc_cat_item action="INSERT_OR_UPDATE"><active>true</active><availability>on_both</availability><billable>false</billable><category/><cost>0</cost><custom_cart/><delivery_plan/><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><entitlement_script/><group/><hide_sp>false</hide_sp><icon/><ignore_price>false</ignore_price><image/><list_price>0</list_price><location/><meta>One Plus phone,phone</meta><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>One Plus phone</name><no_cart>false</no_cart><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_search>false</no_search><omit_price>false</omit_price><order>0</order><ordered_item_link/><picture/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=120abf92db721300e7ea5385ca96190e&amp;sysparm_preview=true", "summary");</preview><price>600</price><recurring_frequency/><recurring_price>0</recurring_price><roles/><sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs><sc_ic_item_staging/><sc_ic_version/><short_description>Request opne plus phone</short_description><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><sys_class_name>sc_cat_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-22 09:18:04</sys_created_on><sys_id>120abf92db721300e7ea5385ca96190e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>One Plus phone</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_120abf92db721300e7ea5385ca96190e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-22 09:18:04</sys_updated_on><template/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow display_value="Service Catalog Item Request">0287f2c64a36232700820846b1f8bdce</workflow></sc_cat_item><sys_translated_text action="delete_multiple" query="documentkey=120abf92db721300e7ea5385ca96190e"/><fx_price action="delete_multiple" query="id=120abf92db721300e7ea5385ca96190e"/><fx_price action="INSERT_OR_UPDATE"><amount>600</amount><currency display_value="USD">USD</currency><field>price</field><id>120abf92db721300e7ea5385ca96190e</id><parent/><reference_amount>600</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-22 09:18:04</sys_created_on><sys_id>e26a7f52db321300e7ea5385ca961925</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-22 09:18:04</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>recurring_price</field><id>120abf92db721300e7ea5385ca96190e</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-22 09:18:04</sys_created_on><sys_id>226a3fd2db721300e7ea5385ca961961</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-22 09:18:04</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>1170970445</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>e5945883dbcb1300e7ea5385ca9619b3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16426c9511e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table/>
+<target_name>One Plus phone</target_name>
+<type>Catalog Item</type>
+<update_domain>global</update_domain>
+<update_guid>626a3fd2b772130087412a1e2e9c3567</update_guid>
+<update_guid_history>626a3fd2b772130087412a1e2e9c3567:1170970445</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_action_6f266c70db831300e7ea5385ca96193b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>short_description</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-29 12:16:23</sys_created_on><sys_id>6f266c70db831300e7ea5385ca96193b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>short_description</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_6f266c70db831300e7ea5385ca96193b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-29 12:16:23</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="remove all following sections when priority is 1.">eac56870db831300e7ea5385ca961984</ui_policy><visible>false</visible></sys_ui_policy_action></record_update>]]></payload>
+<payload_hash>1612965115</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>e9945883dbcb1300e7ea5385ca9619b5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1644b7912020000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table>x_58872_needit_needit</table>
+<target_name>short_description</target_name>
+<type>UI Policy Action</type>
+<update_domain>global</update_domain>
+<update_guid>ba56a4705b83130078bde40673552fb2</update_guid>
+<update_guid_history>ba56a4705b83130078bde40673552fb2:1612965115</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_4602744c0f0232000d030dbce1050e45</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="4602744c0f0232000d030dbce1050e45" sys_domain="global" table="x_58872_needit_needit_task" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-14 07:42:45</sys_created_on><sys_id>44e79e77db221300e7ea5385ca961909</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">4602744c0f0232000d030dbce1050e45</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-14 07:42:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-14 07:42:45</sys_created_on><sys_id>1ce79e77db221300e7ea5385ca961909</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">4602744c0f0232000d030dbce1050e45</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-14 07:42:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>due_date</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-14 07:42:45</sys_created_on><sys_id>9ce79e77db221300e7ea5385ca961909</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">4602744c0f0232000d030dbce1050e45</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-14 07:42:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-14 07:42:45</sys_created_on><sys_id>10e79e77db221300e7ea5385ca96190a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">4602744c0f0232000d030dbce1050e45</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-14 07:42:45</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-14 07:42:45</sys_created_on><sys_id>90e79e77db221300e7ea5385ca96190a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">4602744c0f0232000d030dbce1050e45</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-14 07:42:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-14 07:42:45</sys_created_on><sys_id>14e79e77db221300e7ea5385ca96190a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">4602744c0f0232000d030dbce1050e45</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-14 07:42:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-14 07:42:45</sys_created_on><sys_id>94e79e77db221300e7ea5385ca96190a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">4602744c0f0232000d030dbce1050e45</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-14 07:42:45</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-14 07:42:45</sys_created_on><sys_id>18e79e77db221300e7ea5385ca96190a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">4602744c0f0232000d030dbce1050e45</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-14 07:42:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-14 07:42:45</sys_created_on><sys_id>98e79e77db221300e7ea5385ca96190a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">4602744c0f0232000d030dbce1050e45</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-14 07:42:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-14 07:42:45</sys_created_on><sys_id>1ce79e77db221300e7ea5385ca96190a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">4602744c0f0232000d030dbce1050e45</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-14 07:42:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-14 07:42:45</sys_created_on><sys_id>9ce79e77db221300e7ea5385ca96190a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">4602744c0f0232000d030dbce1050e45</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-14 07:42:45</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_58872_needit_needit_task</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-05 19:46:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4602744c0f0232000d030dbce1050e45</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit_task</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_4602744c0f0232000d030dbce1050e45</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-05 19:46:51</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1343104722</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>ed9410c3dbcb1300e7ea5385ca9619cd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>163fd3f2bf00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table>x_58872_needit_needit_task</table>
+<target_name>NeedIt Task</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>d8e79e7723221300cbbed7741fd18114</update_guid>
+<update_guid_history>d8e79e7723221300cbbed7741fd18114:1343104722,631829efe1221300cb4b02b87ca5b700:0,2708e1efb72213001557a02de9009ab8:-603539476,c589f3f666a2130052210da4f2adf354:-1087831630</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_action_07482030db831300e7ea5385ca96192b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>work_notes</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-29 12:24:52</sys_created_on><sys_id>07482030db831300e7ea5385ca96192b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>work_notes</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_07482030db831300e7ea5385ca96192b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-29 12:28:10</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="remove all following sections when priority is 1.">eac56870db831300e7ea5385ca961984</ui_policy><visible>false</visible></sys_ui_policy_action></record_update>]]></payload>
+<payload_hash>1156761121</payload_hash>
+<remote_update_set display_value="Default">21945883dbcb1300e7ea5385ca9619b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-06 10:45:04</sys_created_on>
+<sys_id>ed945883dbcb1300e7ea5385ca9619b4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1644b83dea90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-06 10:45:04</sys_updated_on>
+<table>x_58872_needit_needit</table>
+<target_name>work_notes</target_name>
+<type>UI Policy Action</type>
+<update_domain>global</update_domain>
+<update_guid>2709e0f061831300ec303f61ae517c44</update_guid>
+<update_guid_history>2709e0f061831300ec303f61ae517c44:1156761121,8b48ecb0bf831300febd3499a271837e:178039195</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
